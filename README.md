@@ -13,6 +13,6 @@ MKeyboard - Turns the keyboard into a musical instrument
 5)Enjoy!!!
 
 # Warning
-1)TimePlay must be at least 50 and more than 10000!!!
+1)TimePlay must be at least 50 and over 10000!!!
 
 2)If you try to go against the rules, a message will appear that this cannot be done!!!
